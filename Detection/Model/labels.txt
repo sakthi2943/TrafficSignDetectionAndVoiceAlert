@@ -1,0 +1,5 @@
+0 No
+1 Stop
+2 Horn prohibited
+3 Speed limit 40
+4 No Entry
