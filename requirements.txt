@@ -1,0 +1,4 @@
+pytxx3
+gtts
+openCV
+tensorflow
