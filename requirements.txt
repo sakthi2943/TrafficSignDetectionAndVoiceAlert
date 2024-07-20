@@ -1,4 +1,6 @@
-pytxx3
+pyttsx3
 gtts
-openCV
+opencv
 tensorflow
+numpy
+time
