@@ -20,8 +20,8 @@ This project is a Traffic Sign Board Detection and Voice Alert System developed 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/traffic-sign-detection.git
-   cd traffic-sign-detection
+   git clone https://github.com/sakthi2943/TrafficSignDetectionAndVoiceAlert.git
+   cd Detection
    ```
 
 2. **Create a virtual environment**
